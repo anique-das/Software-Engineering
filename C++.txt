@@ -1,0 +1,21 @@
+1. Introduction to C++ (History, Features, Applications)
+
+2. Basic Concepts (Structure, Data Types & Variables, Operators)
+
+3. Control Flow (Conditional Statements(if-else, switch), Loops(for, while, do-while)
+
+4. Input & Output
+
+5. Functions (Built-in &  User-defined Functions, Functions Overloading, Recursion)
+
+6. Arrays & Strings (One-Dimensional & Multi-Dimensional Arrays, String Handling)
+
+7. Object-Oriented Programming (Classes & Objects, Constructors & Destructors, Inheritance,       Polymorphism, Abstraction & Encapsulation)
+
+8. Exception Handling (try, catch, throw)
+
+9. File Handling (Reading & Writing Files)
+
+10.Standard Template Library (STL)Vectors, Lists, Maps, Sets
+
+11. Dynamic Memory Allocation (new and delete)
